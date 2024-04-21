@@ -898,7 +898,7 @@ require('lazy').setup({
     },
   },
 })
-print 'init.lua'
+
 require 'custom.knifewrench'
 
 -- The line beneath this is called `modeline`. See `:help modeline`
