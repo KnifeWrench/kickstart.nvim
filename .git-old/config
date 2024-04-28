@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+[pull]
+	ff = true
+[gui]
+	wmstate = normal
+	geometry = 2184x1111+1467+630 417 508
+[remote "origin"]
+	url = https://github.com/KnifeWrench/kickstart.nvim.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

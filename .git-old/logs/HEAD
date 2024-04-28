@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 e2bfa0c66f474f7d8863a8bc05e3d5bdf704f7bf arnold <arnold@Arnold> 1713305978 +0100	clone: from https://github.com/nvim-lua/kickstart.nvim.git
+e2bfa0c66f474f7d8863a8bc05e3d5bdf704f7bf 541f1ee727bee3e025730ec692b3167cea7e6411 Arnold Saltmiris <Arnoldsalt@hotmail.com> 1713732984 +0100	commit: Basic changes debugging still not working
+541f1ee727bee3e025730ec692b3167cea7e6411 acc3aa3b28e8cb4d9c25dab7ad54432f365b61da Arnold Saltmiris <Arnoldsalt@hotmail.com> 1713733636 +0100	pull: Merge made by the 'ort' strategy.
+acc3aa3b28e8cb4d9c25dab7ad54432f365b61da acc3aa3b28e8cb4d9c25dab7ad54432f365b61da Arnold Saltmiris <Arnoldsalt@hotmail.com> 1713735469 +0100	checkout: moving from master to master
+acc3aa3b28e8cb4d9c25dab7ad54432f365b61da 50f75da3fb0f7366183c352250977b4a0d033a03 Arnold Saltmiris <Arnoldsalt@hotmail.com> 1713735978 +0100	commit: Test Change
+50f75da3fb0f7366183c352250977b4a0d033a03 68e44b74ef0c7a72c82316a4b1aab344de122232 KnifeWrench <arnoldsalt@hotmail.com> 1714335038 +0100	commit: minor changes

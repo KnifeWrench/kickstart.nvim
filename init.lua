@@ -900,6 +900,7 @@ require('lazy').setup({
 })
 
 require 'custom.knifewrench'
+print 'Running custom code in the init.lua main'
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et

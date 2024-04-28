@@ -1,20 +1,6 @@
 print 'Running custom code in the Knifewrench folder'
 
---local dap = require 'dap'
-
---dap.adapters.coreclr = {
---  type = 'executable',
---  command = '.local/share/nvim/mason/packages/netcoredbg',
---  args = { '--interpreter=vscode' },
---}
-
---dap.configurations.cs = {
---  {
---    type = 'coreclr',
---    name = 'launch - netcoredbg',
---    request = 'launch',
---    program = function()
---      return vim.fn.input('Path to dll', vim.fn.getcwd() .. '/bin/Debug/', 'file')
---    end,
---  },
---}
+vim.g.Omnisharp_server_use_net6 = true
+vim.opt.encoding = 'utf-8'
+vim.opt.fileencoding = 'utf-8'
+vim.opt.termencoding = 'utf-8'
